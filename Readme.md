@@ -5,6 +5,8 @@ Data structure: A data structure is a way of organizing and storing data in a co
 ## LinkedList
 A linked list is a linear data structure in which elements are stored in a series of nodes, each of which contains a reference or pointer to the next node in the sequence. In other words, each node contains a piece of data and a reference to the next node in the list.
 ## LinkedList && Arrays
+![image](https://user-images.githubusercontent.com/72993155/229142542-670de972-ed15-46cb-a4e1-d2cfce8c01e1.png)
+
 
     1- Memory allocation: In an array, memory is allocated in a contiguous block, which means that each element is stored in a fixed memory location. In contrast, a linked list uses dynamic memory allocation, where each element is stored in a separate memory location, connected by pointers.
 
