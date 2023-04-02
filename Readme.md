@@ -16,3 +16,4 @@ A linked list is a linear data structure in which elements are stored in a serie
 
 ## Stack
 is an abstract data type that represents a collection of elements with two principal operations: push, which adds an element to the collection, and pop, which removes the most recently added element that was not yet removed. The elements in a stack are typically arranged in a last-in-first-out (LIFO) order, meaning that the most recently added element is the first one to be removed.
+![image](https://user-images.githubusercontent.com/72993155/229360836-8fbf5bcd-1d2e-45db-a200-384c0ea00e1c.png)
