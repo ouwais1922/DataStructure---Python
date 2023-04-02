@@ -13,3 +13,6 @@ A linked list is a linear data structure in which elements are stored in a serie
     2- Size: The size of an array is fixed at the time of creation and cannot be changed. In contrast, a linked list can grow or shrink in size dynamically, as new elements are added or removed.
 
     3- Insertion and deletion: Inserting or deleting elements in an array can be slow, especially if the array is large, since it requires shifting all the elements after the insertion point. In contrast, inserting or deleting elements in a linked list is generally faster, since it only requires changing a few pointers to re-link the list.
+
+## Stack
+is an abstract data type that represents a collection of elements with two principal operations: push, which adds an element to the collection, and pop, which removes the most recently added element that was not yet removed. The elements in a stack are typically arranged in a last-in-first-out (LIFO) order, meaning that the most recently added element is the first one to be removed.
