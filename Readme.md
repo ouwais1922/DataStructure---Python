@@ -24,3 +24,12 @@ is an abstract data type that represents a collection of elements with two princ
     
     - Function calling in any pg language is managed using a stack
     - Undo (Ctrl+Z) functionality in any editor uses stack to track down last set of operations
+    - Browser history in web browsers
+
+## Keep in mind : 
+
+    - Push/Pop element : O(1)
+    - Search element by value : O(n)
+    - List is not recommneded to be used as stack in python because it is a dynamic array; assuming we have a     list of 10 elements (capacity of 10), and we want to insert the 11 th element, so it will go to another memory are and allocate some extra capacity (additional capacity = 10 *2). Memory allocation issue according with copying issue.
+
+    - The recommended approach in python is to use collections.deque()
