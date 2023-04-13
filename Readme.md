@@ -24,7 +24,7 @@ is an abstract data type that represents a collection of elements with two princ
     
     - Function calling in any pg language is managed using a stack
     - Undo (Ctrl+Z) functionality in any editor uses stack to track down last set of operations
-    - Browser history in web browsers
+    - Browser history in web browsers.
 
 ## Keep in mind : 
 
